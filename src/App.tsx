@@ -1,5 +1,7 @@
+import PageRouter from "@utils/routerUtils";
+
 const App = () => {
-  return <></>;
+  return <PageRouter />;
 };
 
 export default App;
